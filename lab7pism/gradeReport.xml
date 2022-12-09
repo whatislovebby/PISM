@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<gradeReport>
+    <date>10-06-2008</date>
+    <subject>Computer Science Fundamentals</subject>
+    <examiner>prof.Litvinov</examiner>
+
+    <gradeList>
+        <gradeRecord id="1">
+            <number>1</number>
+            <student>tom</student>
+            <grade>2</grade>
+        </gradeRecord>
+
+        <gradeRecord id="2">
+            <number>2</number>
+            <student>Pev</student>
+            <grade>3</grade>
+        </gradeRecord>
+        
+        <gradeRecord id="3">
+            <number>3</number>
+            <student>Sidorov</student>
+            <grade>1</grade>
+        </gradeRecord>
+
+        <gradeRecord id="4">
+            <number>4</number>
+            <student>Romanov</student>
+            <grade>5</grade>
+        </gradeRecord>
+
+        <gradeRecord id="5">
+            <number>5</number>
+            <student>Tomilchik</student>
+            <grade>4</grade>
+        </gradeRecord>
+    </gradeList>
+</gradeReport>
